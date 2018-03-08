@@ -20,3 +20,4 @@
         >>   34 POP_BLOCK
   5     >>   35 LOAD_FAST                0 (x)
              38 RETURN_VALUE
+#以上展示了关于python的指令码。。。。。。。。。
