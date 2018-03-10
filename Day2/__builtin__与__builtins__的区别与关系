@@ -1,4 +1,4 @@
-
+详细见博客：http://blog.sina.com.cn/s/blog_8a18c33d01019yek.html
 
 在学习Python时，很多人会问到__builtin__、__builtins__和builtins之间有什么关系。百度或Google一下，有很 多答案，但是这些答案要么不准确，要么只说了一点点，并不全面。本文将给大家一个较为全面的答案。以下结果是经过本人试验过的(测试环境：Linux Mint 14， Python2.7.3和Python3.2.3)，并参考了Python的邮件列表。
 
