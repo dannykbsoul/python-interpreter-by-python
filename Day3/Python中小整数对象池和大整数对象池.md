@@ -123,3 +123,5 @@ print(C1.a is C2.a)  # True
 print(C1.c is C1.d)  # True
 print(C1.b is C2.b)  # False
 
+原博客地址：
+#http://blog.csdn.net/wangyunfeis/article/details/77607156
